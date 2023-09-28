@@ -1,0 +1,19 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Agreement is a legally binding contract between you ("Licensee") and Serafim Thaler, the owner of the code ("Licensor"), dated 30.05.2023, Class 4AN. By using the code and playing the game, you agree to the following terms.
+
+License Grant: Licensor grants Licensee a non-exclusive, non-transferable license to use the code and play the game for personal or educational purposes only.
+
+Restrictions: Licensee may not copy the code entirely or publish it under a different name. The code remains the property of Serafim Thaler and is protected by applicable laws.
+
+Ownership: The code was written and belongs to Serafim Thaler, dated 30.05.2023, Class 4AN.
+
+Use of Open Source Libraries: The code may incorporate open-source libraries, which are subject to their respective licenses. The ownership of these libraries belongs to their creators, as specified in their respective licenses.
+
+Prohibited Activities: Licensee must not use the code or game for illegal purposes or engage in unauthorized distribution or modification.
+
+Disclaimer of Warranty: The code and game are provided "as is" without any warranty. Licensor is not responsible for any damages or issues arising from their use.
+
+Termination: Violation of the agreement may result in immediate termination and legal action.
+
+By using the code and playing the game, you acknowledge and accept the terms and conditions of this Agreement.
